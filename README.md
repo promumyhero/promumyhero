@@ -1,10 +1,8 @@
-<h2 align="left">I’m a Full-Stack Developer & Business Operations Enthusiast with a background in Medical Informatics. Passionate about technology, cloud computing, and digital transformation, I love building scalable web applications and optimizing business processes with data-driven solutions.</h2>
-
+<h2 align="left">I’m a Full-Stack Developer & Business Operations Enthusiast with a background in Medical Informatics. I love building scalable web applications and optimizing business processes with data-driven solutions.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=promumyhero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promumyhero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -57,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/promumyhero/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/promumyhero/promumyhero/output/snake.svg" alt="Snake animation" />
 
 ###
