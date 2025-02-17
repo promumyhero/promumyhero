@@ -55,6 +55,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/promumyhero/promumyhero/output/snake.svg" alt="Snake animation" />
-
 ###
