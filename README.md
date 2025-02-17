@@ -1,4 +1,5 @@
-<h2 align="left">I’m a Full-Stack Developer & Business Operations Enthusiast with a background in Medical Informatics. I love building scalable web applications and optimizing business processes with data-driven solutions.</h2>
+<h2 align="left">I’m a Full-Stack Developer & Business Operations Enthusiast with a background in Medical Informatics. Passionate about technology, cloud computing, and digital transformation, I love building scalable web applications and optimizing business processes with data-driven solutions.</h2>
+
 
 ###
 
